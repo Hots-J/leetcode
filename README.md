@@ -1,7 +1,7 @@
 # leetcode
 My leetcode solution
 
-Now the progress is **22/1188**
+Now the progress is **23/1188**
 
 Already solved problems
 
@@ -16,6 +16,7 @@ Already solved problems
 |  36  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) |         哈希表          | [有效的数独](https://github.com/Hots-J/leetcode/blob/master/problems/36.%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md) |   Medium   |
 |  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 数组 分治算法 动态规划  | [最大子序和](https://github.com/Hots-J/leetcode/blob/master/problems/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) |    Easy    |
 |  66  |      [加一](https://leetcode-cn.com/problems/plus-one/)      |          数组           | [加一](https://github.com/Hots-J/leetcode/blob/master/problems/66.%E5%8A%A0%E4%B8%80.md) |    Easy    |
+|  69  |    [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)     |      数学 二分查找      |                                                              |    Easy    |
 |  70  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  |        动态规划         | [爬楼梯](https://github.com/Hots-J/leetcode/blob/master/problems/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.md) |    Easy    |
 |  72  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  |     字符串 动态规划     |                                                              |    Hard    |
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) |      位运算 哈希表      | [只出现一次的数字](https://github.com/Hots-J/leetcode/blob/master/problems/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) |    Easy    |
